@@ -1,8 +1,8 @@
 import MetaTrader5 as mt5
 
 # Define login credentials
-ACCOUNT = 5033660151   # Replace with your MT5 account number
-PASSWORD = "PhQk-c0r"
+ACCOUNT =   # Replace with your MT5 account number
+PASSWORD = ""
 SERVER = "MetaQuotes-Demo"  # Example: "ICMarkets-Demo"
 
 def connect():
